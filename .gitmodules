@@ -1,0 +1,21 @@
+[submodule "Microservices-Design-Architecture"]
+	path = Microservices-Design-Architecture
+	url = https://github.com/nitinkc/Microservices-Design-Architecture.git
+[submodule "microservices-interview"]
+	path = microservices-interview
+	url = https://github.com/nitinkc/microservices-interview.git
+[submodule "apigee"]
+	path = apigee
+	url = https://github.com/nitinkc/apigee.git
+[submodule "gRPC"]
+	path = gRPC
+	url = https://github.com/nitinkc/gRPC.git
+[submodule "webhooks"]
+	path = webhooks
+	url = https://github.com/nitinkc/webhooks.git
+[submodule "sse-ServerSentEvents"]
+	path = sse-ServerSentEvents
+	url = https://github.com/nitinkc/sse-ServerSentEvents.git
+[submodule "websockets"]
+	path = websockets
+	url = https://github.com/nitinkc/websockets.git
